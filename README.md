@@ -7,10 +7,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-7.x-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-## 🚀 Live Demo
-
-[Live Demo URL - Add your deployed link here]
-
 ## 📖 Project Overview
 
 A complete **Full Stack Learning Management System** built with the MERN (MongoDB, Express.js, React, Node.js) stack. This platform enables seamless online learning with three distinct user roles: **Admin**, **Instructor**, and **Student**.
